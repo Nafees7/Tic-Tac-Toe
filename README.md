@@ -5,7 +5,7 @@ A GUI version of unbeatable Tic-Tac-Toe game in java
 
 ### Running the project
 
-Just Download the Jar file from [here](https://github.com/Nafees7/Tic-Tac-Toe/blob/main/TTT.jar)
+Just Download the Jar file from [here](https://github.com/Nafees7/Tic-Tac-Toe/raw/master/TTT.jar)
 and run it by executing the follwing command
 ```
 java -jar TTT.jar
